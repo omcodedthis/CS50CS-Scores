@@ -11,6 +11,8 @@ The Assignments for each week are graded manually by human grader on a set sched
 
 ## Getting Started
 
-* [CS50’s Introduction to Cybersecurity Website.](https://cs50.harvard.edu/cybersecurity/2023/)
+* [CS50CS’s Website.](https://cs50.harvard.edu/cybersecurity/2023/)
+
+* Join the discussions on Ed for Q&As [here.](https://cs50.edx.org/ed)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
