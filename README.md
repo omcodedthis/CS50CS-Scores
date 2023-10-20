@@ -10,6 +10,15 @@ On the way, stay tuned!
 ## Weekly Scores
 The Assignments for each week are graded manually by human graders on a set schedule. The scores of my assignments will be recorded below on a weekly basis (it may take longer to update my scores as it manually graded). By clicking on the image, you can view an enlarged version in a new tab.
 
+<details>
+<summary>View Week 0 Scores</summary>
+<img src="https://github.com/omcodedthis/CS50CS/assets/119602009/70c2c486-a2cd-414c-a4fd-f868c6dfa593"> </img>
+</details>
+
+<details><summary>View Week 1 Scores</summary>
+<img src="https://github.com/omcodedthis/CS50CS/assets/119602009/9368eb41-67a6-445d-8d73-5335469b81a3"> </img>
+</details>
+
 ## Getting Started
 
 * [CS50CS’s Website.](https://cs50.harvard.edu/cybersecurity/2023/)
