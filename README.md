@@ -4,6 +4,9 @@
 
 An introduction to cybersecurity for technical and non-technical audiences alike. Learn how to secure your accounts, data, systems, and software against today’s threats and how to recognize and evaluate tomorrow’s as well, both at home and at work. Learn how to preserve your own privacy. Learn to view cybersecurity not in absolute terms but relative, a function of risks and rewards (for an adversary) and costs and benefits (for a user). Learn to recognize cybersecurity as a trade-off with usability itself. Course presents both high-level and low-level examples of threats, providing students with all they need know technically to understand both. Assignments inspired by real-world events.
 
+## Current Progress
+![cs50csprog](https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/5711503f-d5b5-4594-b029-3fc9cbac95b8)
+
 ## Certificate
 On the way, stay tuned!
 
