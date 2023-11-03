@@ -5,7 +5,7 @@
 An introduction to cybersecurity for technical and non-technical audiences alike. Learn how to secure your accounts, data, systems, and software against today’s threats and how to recognize and evaluate tomorrow’s as well, both at home and at work. Learn how to preserve your own privacy. Learn to view cybersecurity not in absolute terms but relative, a function of risks and rewards (for an adversary) and costs and benefits (for a user). Learn to recognize cybersecurity as a trade-off with usability itself. Course presents both high-level and low-level examples of threats, providing students with all they need know technically to understand both. Assignments inspired by real-world events.
 
 ## Current Progress
-![cs50csprog](https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/5711503f-d5b5-4594-b029-3fc9cbac95b8)
+![cs50csprog](https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/a3b0414e-3eef-4acd-8737-319bf30090da)
 
 ## Certificate
 On the way, stay tuned!
@@ -20,6 +20,15 @@ The Assignments for each week are graded manually by human graders on a set sche
 
 <details><summary>View Week 1 Scores</summary>
 <img src="https://github.com/omcodedthis/CS50CS/assets/119602009/9368eb41-67a6-445d-8d73-5335469b81a3"> </img>
+</details>
+
+<details>
+<summary>View Week 2 Scores</summary>
+<img src="https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/e82bc3bf-9ca6-4460-9fe2-646610786fce"> </img>
+</details>
+
+<details><summary>View Week 3 Scores</summary>
+<img src="https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/03241560-c417-4612-8c41-a9282163ba87"> </img>
 </details>
 
 ## Getting Started
