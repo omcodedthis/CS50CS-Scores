@@ -31,6 +31,10 @@ The Assignments for each week are graded manually by human graders on a set sche
 <img src="https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/03241560-c417-4612-8c41-a9282163ba87"> </img>
 </details>
 
+<details><summary>View Week 4 Scores</summary>
+<p>10/10, will add the respective screenshot soon.</p>
+</details>
+
 ## Getting Started
 
 * [CS50CS’s Website.](https://cs50.harvard.edu/cybersecurity/2023/)
