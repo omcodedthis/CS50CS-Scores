@@ -7,6 +7,8 @@ An introduction to cybersecurity for technical and non-technical audiences alike
 ## Current Progress
 ![cs50csprog](https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/a3b0414e-3eef-4acd-8737-319bf30090da)
 
+*Note: 5/5 Assignments completed, will update this image soon. Left with the Final Project. 
+
 ## Certificate
 On the way, stay tuned!
 
