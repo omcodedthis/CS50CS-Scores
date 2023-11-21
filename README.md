@@ -5,9 +5,9 @@
 An introduction to cybersecurity for technical and non-technical audiences alike. Learn how to secure your accounts, data, systems, and software against today’s threats and how to recognize and evaluate tomorrow’s as well, both at home and at work. Learn how to preserve your own privacy. Learn to view cybersecurity not in absolute terms but relative, a function of risks and rewards (for an adversary) and costs and benefits (for a user). Learn to recognize cybersecurity as a trade-off with usability itself. Course presents both high-level and low-level examples of threats, providing students with all they need know technically to understand both. Assignments inspired by real-world events.
 
 ## Current Progress
-![cs50csprog](https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/a3b0414e-3eef-4acd-8737-319bf30090da)
+![cs50csprog](https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/1a074a55-44c6-4380-a694-fe4c8d1391b8)
 
-*Note: 5/5 Assignments completed, will update this image soon. Left with the Final Project. 
+Note: Only the Final Project is left, which will be released by 26th November.
 
 ## Certificate
 On the way, stay tuned!
@@ -34,7 +34,7 @@ The Assignments for each week are graded manually by human graders on a set sche
 </details>
 
 <details><summary>View Week 4 Scores</summary>
-<p>10/10, will add the respective screenshot soon.</p>
+<img src="https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/2cf21b4f-32a0-4bd2-a644-589ee1c3b228"></img>
 </details>
 
 ## Getting Started
