@@ -7,7 +7,7 @@ An introduction to cybersecurity for technical and non-technical audiences alike
 ## Current Progress
 ![cs50csprog](https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/1a074a55-44c6-4380-a694-fe4c8d1391b8)
 
-Note: Only the Final Project is left, which will be released by 26th November.
+Note: Currently working on the Final Project which is to conduct an analysis on a recent cybersecurity failure.
 
 ## Certificate
 On the way, stay tuned!
