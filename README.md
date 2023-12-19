@@ -4,13 +4,9 @@
 
 An introduction to cybersecurity for technical and non-technical audiences alike. Learn how to secure your accounts, data, systems, and software against today’s threats and how to recognize and evaluate tomorrow’s as well, both at home and at work. Learn how to preserve your own privacy. Learn to view cybersecurity not in absolute terms but relative, a function of risks and rewards (for an adversary) and costs and benefits (for a user). Learn to recognize cybersecurity as a trade-off with usability itself. Course presents both high-level and low-level examples of threats, providing students with all they need know technically to understand both. Assignments inspired by real-world events.
 
-## Current Progress
-![cs50csprog](https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/1a074a55-44c6-4380-a694-fe4c8d1391b8)
-
-Note: Currently working on the Final Project (conduct an analysis on a recent cybersecurity failure).
-
 ## Certificate
-On the way, stay tuned!
+![CS50 Cybersecurity_Privacy_ver](https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/01ef645d-6bf5-41de-a98a-3df239c7c862)
+Note that certain parts of the certificate have been blurred for privacy. The original certificate can be requested for verification by contacting me directly.
 
 ## Weekly Scores
 The Assignments for each week are graded manually by human graders on a set schedule. The scores of my assignments will be recorded below on a weekly basis (it may take longer to update my scores as it is manually graded). By clicking on the image, you can view an enlarged version in a new tab.
@@ -35,6 +31,10 @@ The Assignments for each week are graded manually by human graders on a set sche
 
 <details><summary>View Week 4 Scores</summary>
 <img src="https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/2cf21b4f-32a0-4bd2-a644-589ee1c3b228"></img>
+</details>
+
+<details><summary>View Final Project Scores</summary>
+<img src="https://github.com/omcodedthis/CS50CS-Scores/assets/119602009/577351d6-178c-4fc8-abc2-74b3d424b7ff"></img>
 </details>
 
 ## Getting Started
