@@ -9,7 +9,7 @@ An introduction to cybersecurity for technical and non-technical audiences alike
 Note that certain parts of the certificate have been blurred for privacy. The original certificate can be requested for verification by contacting me directly.
 
 ## Weekly Scores
-The Assignments for each week are graded manually by human graders on a set schedule. The scores of my assignments will be recorded below on a weekly basis (it may take longer to update my scores as it is manually graded). By clicking on the image, you can view an enlarged version in a new tab.
+The Assignments for each week are graded manually by human graders on a set schedule. The scores of my assignments are recorded below for each week of the course. By clicking on the image, you can view an enlarged version in a new tab.
 
 <details>
 <summary>View Week 0 Scores</summary>
